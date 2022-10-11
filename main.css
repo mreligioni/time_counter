@@ -1,0 +1,6 @@
+#countdown {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font: 36px Arial bold, sans-serif;
+}
